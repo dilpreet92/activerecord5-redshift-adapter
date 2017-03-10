@@ -17,9 +17,9 @@ and maintains it, we would happily switch to that.
 Usage
 -------------------
 
-For Rails 5, write following in Gemfile:
+For Rails 5.1, write following in Gemfile:
 ```
-gem 'activerecord5-redshift-adapter'
+gem 'activerecord5-redshift-adapter', git: 'git@github.com:dilpreet92/activerecord5-redshift-adapter.git'
 ```
 
 In database.yml
